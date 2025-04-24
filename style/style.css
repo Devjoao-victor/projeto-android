@@ -162,11 +162,10 @@ div.video {
     background-color: var(--cor5);
     margin: 0px -20px 30px -20px;
     padding: 20px;
-    padding-bottom: 56.5%;
+    padding-bottom: 59%;
     position: relative;
 }
 
-div::activ
 div.video > iframe {
     position: absolute;
     top: 5%;
